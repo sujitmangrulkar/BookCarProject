@@ -49,6 +49,7 @@ public class AtmPage
     private Integer days;
     private String cardNo;
 
+    private String trial;
 
 
 //    @ManyToOne
