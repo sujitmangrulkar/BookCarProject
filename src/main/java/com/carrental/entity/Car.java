@@ -70,6 +70,8 @@ public class Car
     @Column(name="CHARGES")
     private Double charge;
 
+    private String car2;
+
 //    @OneToMany(mappedBy = "car",cascade = CascadeType.ALL)
 //    private List<BookingForm> bookingForm;
 //

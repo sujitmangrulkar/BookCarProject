@@ -35,6 +35,8 @@ public class Hotel
     @Column(name="FINAL_COST")
     private double finalCost;
 
+    private String hotel2;
+
 //    @OneToMany(mappedBy = "hotel",cascade = CascadeType.ALL)
 //    private List<AtmPage> atmPage;
 

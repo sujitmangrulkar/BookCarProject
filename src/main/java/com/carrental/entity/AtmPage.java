@@ -51,6 +51,8 @@ public class AtmPage
 
     private String trial;
 
+    private String trial2;
+
 
 //    @ManyToOne
 //    private User user;

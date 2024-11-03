@@ -39,6 +39,8 @@ public class User implements UserDetails
     @Column(name="PASSWORD")
     private String password;
 
+    private String user2;
+
 //    @OneToMany(mappedBy = "user",cascade = CascadeType.ALL)
 //    private List<AtmPage> atmPage;
 

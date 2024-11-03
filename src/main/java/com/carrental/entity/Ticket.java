@@ -23,4 +23,6 @@ public class Ticket
 
     @Column(name="EmailId")
     private String emailId;
+
+    private String ticket2;
 }

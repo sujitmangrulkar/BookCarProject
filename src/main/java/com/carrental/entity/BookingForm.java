@@ -36,6 +36,8 @@ public class BookingForm
     private String bookingFormDuplicate;
     private String bookinTrial;
 
+    private String bookingTrial2;
+
 //    @ManyToOne
 //    private Car car;
 //

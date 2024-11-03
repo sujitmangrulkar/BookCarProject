@@ -46,6 +46,8 @@ public class Driver
     @Column(name = "CHARGES")
     private Double charges;
 
+    private String driver2;
+
 //    @OneToMany(mappedBy = "driver",cascade = CascadeType.ALL)
 //    private List<AtmPage> atmPages;
 }
