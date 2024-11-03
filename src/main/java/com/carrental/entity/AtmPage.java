@@ -53,6 +53,8 @@ public class AtmPage
 
     private String trial2;
 
+    private String trial3;
+
 
 //    @ManyToOne
 //    private User user;
