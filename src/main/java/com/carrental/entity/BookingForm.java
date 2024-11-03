@@ -32,6 +32,8 @@ public class BookingForm
     private Integer numOfBags;
     private Double totalPrice;
 
+
+    private String bookingFormDuplicate;
 //    @ManyToOne
 //    private Car car;
 //
